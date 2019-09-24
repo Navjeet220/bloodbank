@@ -94,9 +94,9 @@ Make changes in `.env`
 
 ## ✍️ Authors <a id="authors"></a>
 
-[@rishav394](https://github.com/rishav394) - Initial work
+[@Navjeet220](https://github.com/Navjeet220) - Initial work
 
-See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Navjeet220/bloodbank/graphs/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a id="acknowledgement"></a>
 
